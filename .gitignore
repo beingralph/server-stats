@@ -1,0 +1,6 @@
+# unnecessary files
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
